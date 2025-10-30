@@ -1,4 +1,4 @@
-[Discrae - BANNIERE](img/banner.png)
+![Discrae - BANNIERE](img/banner.png)
 
 # **Discrae** 👋
 
@@ -20,9 +20,11 @@ Ici, vous trouverer mes projets, mes compétences et d'autres informations inté
 
 ## 🧑‍💻 Mes projets
 
-[BANNIERE - Discrae.com](img/portfolio_thumbnail.png)
-
 ### 1. 💻 **[Discrae.com](https://www.discrae.com) - Portfolio Personnel**
+<p align="left">
+  <img src="img/portfolio_thumbnail.png" alt="BANNIERE - Discrae.com" width="75%"/>
+</p>
+
 Un site présentant mes projets de développement web et mes productions musicales. Il est optimisé pour les performances et l'accessibilité.
 
 **Fonctionnalités principales** :
@@ -30,9 +32,13 @@ Un site présentant mes projets de développement web et mes productions musical
 - Design responsive avec animations fluides
 - Formulaire de contact sécurisé avec API Gmail
 
-[BANNIERE - DISCRAE Prod.com](img/discraeprod_thumbnail.png)
+---
 
 ### 2. 🎧 **[DISCRAEProd.com](https://www.discraeprod.com) - Catalogue d'instrumentale en ligne**
+<p align="left">
+  <img src="img/discraeprod_thumbnail.png" alt="BANNIERE - DISCRAE Prod.com" width="75%"/>
+</p>
+
 Une plateforme dédiée à la production musicale et à la création d'instrumentales. Elle permet aux utilisateurs de découvrir, écouter et acheter des productions musicales originales.
 
 **Fonctionnalités principales** :
@@ -172,4 +178,4 @@ Pour consulter l'intégralité du manifeste, rendez-vous sur le lien suivant :
 
 ---
 
-*Donnez vie à vos projets 🌟 ; et gardez-les de manière sûre ! 🔒*
+*"Donnez vie à vos projets 🌟 ; et gardez-les de manière sûre! 🔒"*

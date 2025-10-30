@@ -1,4 +1,4 @@
-![Discrae - BANNIERE](img/banner.png)
+![Discrae - BANNIERE](img/banner.gif)
 
 # **Discrae** 👋
 

@@ -41,7 +41,7 @@
   - **PDF and document cryptography**  
     PDF/A, Factur-X, VeraPDF, electronic signatures, metadata, timestamping, and traceability.
   - **AI applied to development**  
-    GitHub Copilot (IDE + CLI), Claude / Claude Code, prompt engineering, and assisted workflows.
+    GitHub Copilot (IDE + CLI), Anthropic Claude / Claude Code, prompt engineering, and assisted workflows.
   - **Local AI and privacy-first thinking**  
     Local AI with a pragmatic view of real limits: hardware, VRAM, context, and versatility.
   - **Knowledge systems and documentation engineering**  
@@ -77,51 +77,53 @@
 
   ## 🧑‍💻 My Projects
 
-  ### 1. 💻 **[Discrae.com](https://www.discrae.com) - Personal Portfolio**
-  <p align="left">
-    <img src="img/portfolio_thumbnail.png" alt="BANNER - Discrae.com" width="75%"/>
-  </p>
-
-  Personal portfolio dedicated to my web projects and music productions, with a focus on performance and accessibility.
-
-  **Main features**:
-  - Clear presentation of my web and music projects
-  - Responsive design with polished animations
-  - Secure contact form through Gmail API
-  - Clean structure between frontend, backend, content, and deployment
-
-  ---
-
-  ### 2. 🎧 **[DISCRAEProd.com](https://www.discraeprod.com) - Online Instrumental Catalog**
-  <p align="left">
-    <img src="img/discraeprod_thumbnail.png" alt="BANNER - DISCRAE Prod.com" width="75%"/>
-  </p>
-
-  A platform dedicated to music production, designed to discover, listen to, and reserve original instrumentals.
-
-  **Main features**:
-
-  - Demo listening
-  - Music license reservation
-  - File download
-  - Secure sign-up and sign-in
-  - Business API integrations: **Stripe**, **Gmail**, and **Google Drive**
-  - Fullstack product logic with **cloud MySQL**, CI/CD, SEO, and application security
-
-  ---
-
-  ### 3. 💼 **D-RECT Solutions - Business Solution / Professional Project**
-  <p align="left">
-    <img src="img/drect_thumbnail.png" alt="BANNER - D-RECT Stud.com" width="75%"/>
-  </p>
-
-  A business-oriented project designed to structure, present, and highlight a professional activity.
-
-  **Main features**:
-
-  - Clear presentation of services and project identity
-  - Modern, responsive, and accessible web interface
-  - Scalable base for content, contact, and business use cases
+  <table>
+    <tr>
+      <td width="33.33%" valign="top">
+        <h3>1. 💻 <a href="https://www.discrae.com">Discrae.com</a></h3>
+        <p align="left">
+          <img src="img/portfolio_thumbnail.png" alt="BANNER - Discrae.com" width="100%"/>
+        </p>
+        <p>Personal portfolio dedicated to my web projects and music productions, with a focus on performance and accessibility.</p>
+        <p><strong>Main features:</strong></p>
+        <ul>
+          <li>Clear presentation of my web and music projects</li>
+          <li>Responsive design with polished animations</li>
+          <li>Secure contact form through Gmail API</li>
+          <li>Clean structure between frontend, backend, content, and deployment</li>
+        </ul>
+      </td>
+      <td width="33.33%" valign="top">
+        <h3>2. 🎧 <a href="https://www.discraeprod.com">DISCRAEProd.com</a></h3>
+        <p align="left">
+          <img src="img/discraeprod_thumbnail.png" alt="BANNER - DISCRAE Prod.com" width="100%"/>
+        </p>
+        <p>A platform dedicated to music production, designed to discover, listen to, and reserve original instrumentals.</p>
+        <p><strong>Main features:</strong></p>
+        <ul>
+          <li>Demo listening</li>
+          <li>Music license reservation</li>
+          <li>File download</li>
+          <li>Secure sign-up and sign-in</li>
+          <li>Business API integrations: <strong>Stripe</strong>, <strong>Gmail</strong>, and <strong>Google Drive</strong></li>
+          <li>Fullstack product logic with <strong>cloud MySQL</strong>, CI/CD, SEO, and application security</li>
+        </ul>
+      </td>
+      <td width="33.33%" valign="top">
+        <h3>3. 💼 D-RECT Solutions - Solution métier / projet professionnel</h3>
+        <p align="left">
+          <img src="img/drect_thumbnail.png" alt="BANNER - D-RECT Stud.com" width="100%"/>
+        </p>
+        <p>A business-oriented project designed to structure, present, and highlight a professional activity.</p>
+        <p><strong>Main features:</strong></p>
+        <ul>
+          <li>Clear presentation of services and project identity</li>
+          <li>Modern, responsive, and accessible web interface</li>
+          <li>Scalable base for content, contact, and business use cases</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
   ---
 
@@ -164,40 +166,45 @@
 
   ## 🧠 Tech Stack
 
-  ### Core Stack
-
-  | Category  | Main technologies                   |
-  |-----------|-------------------------------------|
-  | **Programming languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) / ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) / ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-  | **Markup & styling languages** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) / ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) / ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) |
-  | **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) / ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
-  | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) / ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-  | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) / ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-  | **Tools** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) / ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-  | **Terminal & environment** | ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white) / ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) / ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) / ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
-  | **Testing** | ![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=white) / ![Supertest](https://img.shields.io/badge/Supertest-555555?style=flat&logo=supertest&logoColor=white) / ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white) |
-  | **CI/CD / DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) / ![SSH](https://img.shields.io/badge/SSH-111111?style=flat&logo=gnubash&logoColor=white) |
-  | **Deployment / Production** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) *(frontend)* / ![Render](https://img.shields.io/badge/Render-4B55D7?style=flat&logo=render&logoColor=white) *(backend)* / ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) / ![Aiven](https://img.shields.io/badge/Aiven-4D44A7?style=flat&logo=aiven&logoColor=white) |
-
-  ---
-
-  ### Complementary Ecosystem
-
-  | Category  | Tools, integrations, and references |
-  |-----------|-------------------------------------|
-  | **Libs & middleware** | ![Joi](https://img.shields.io/badge/Joi-5A67D8?style=flat&logoColor=white) / ![Multer](https://img.shields.io/badge/Multer-FFB020?style=flat&logoColor=black) / ![Simple Crypto](https://img.shields.io/badge/Simple--Crypto-6E56CF?style=flat&logoColor=white) / ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white) |
-  | **Security / Auth** | ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-2F2F2F?style=flat&logo=oauth&logoColor=white) / ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) / ![CORS](https://img.shields.io/badge/CORS-00599C?style=flat&logoColor=white) / ![Argon2](https://img.shields.io/badge/Argon2-1F6FEB?style=flat&logoColor=white) |
-  | **APIs & integrations** | ![Gmail API](https://img.shields.io/badge/Gmail%20API-EA4335?style=flat&logo=gmail&logoColor=white) / ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-0F9D58?style=flat&logo=googledrive&logoColor=white) / ![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat&logo=youtube&logoColor=white) / ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) / ![Render API](https://img.shields.io/badge/Render%20API-4B55D7?style=flat&logo=render&logoColor=white) |
-  | **AI / Automation** | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) / ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logoColor=white) / ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat&logoColor=white) |
-
-  ---
-
-  ### Documentation & References
-
-  | Category  | References, architecture, and principles |
-  |-----------|------------------------------------------|
-  | **Documentation & architecture** | Swagger / OpenAPI / i18n / SSR / CSR / DRY / KISS / SoC |
-  | **Standards & references** | OWASP / W3C / GDPR / PCI-DSS / ISO |
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Core Stack</h3>
+        <table>
+          <tr><th>Category</th><th>Main technologies</th></tr>
+          <tr><td><strong>Programming languages</strong></td><td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td></tr>
+          <tr><td><strong>Markup & styling</strong></td><td><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /></td></tr>
+          <tr><td><strong>Frontend</strong></td><td><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /></td></tr>
+          <tr><td><strong>Backend</strong></td><td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /></td></tr>
+          <tr><td><strong>Databases</strong></td><td><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td></tr>
+          <tr><td><strong>Tools</strong></td><td><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></td></tr>
+          <tr><td><strong>Terminal & environment</strong></td><td><img alt="WSL" src="https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" /></td></tr>
+          <tr><td><strong>Testing</strong></td><td><img alt="Vitest" src="https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=white" /> <img alt="Supertest" src="https://img.shields.io/badge/Supertest-555555?style=flat&logo=supertest&logoColor=white" /> <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white" /></td></tr>
+          <tr><td><strong>CI/CD / DevOps</strong></td><td><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <img alt="SSH" src="https://img.shields.io/badge/SSH-111111?style=flat&logo=gnubash&logoColor=white" /></td></tr>
+          <tr><td><strong>Deployment / Production</strong></td><td><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img alt="Render" src="https://img.shields.io/badge/Render-4B55D7?style=flat&logo=render&logoColor=white" /> <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white" /> <img alt="Aiven" src="img/badge/aiven-badge.svg" /></td></tr>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Complementary Ecosystem</h3>
+        <table>
+          <tr><th>Category</th><th>Tools, integrations, and references</th></tr>
+          <tr><td><strong>Libs & middleware</strong></td><td><img alt="Joi" src="https://img.shields.io/badge/Joi-5A67D8?style=flat&logoColor=white" /> <img alt="Multer" src="https://img.shields.io/badge/Multer-FFB020?style=flat&logoColor=black" /> <img alt="Simple Crypto" src="https://img.shields.io/badge/Simple--Crypto-6E56CF?style=flat&logoColor=white" /> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" /></td></tr>
+          <tr><td><strong>Security / Auth</strong></td><td><img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth%202.0-2F2F2F?style=flat&logo=oauth&logoColor=white" /> <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" /> <img alt="CORS" src="https://img.shields.io/badge/CORS-00599C?style=flat&logoColor=white" /> <img alt="Argon2" src="https://img.shields.io/badge/Argon2-1F6FEB?style=flat&logoColor=white" /></td></tr>
+          <tr><td><strong>APIs & integrations</strong></td><td><img alt="Gmail API" src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat&logo=gmail&logoColor=white" /> <img alt="Google Drive API" src="https://img.shields.io/badge/Google%20Drive%20API-0F9D58?style=flat&logo=googledrive&logoColor=white" /> <img alt="YouTube Data API" src="https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat&logo=youtube&logoColor=white" /> <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" /> <img alt="Render API" src="https://img.shields.io/badge/Render%20API-4B55D7?style=flat&logo=render&logoColor=white" /></td></tr>
+          <tr><td><strong>AI / Automation</strong></td><td><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" /> <img alt="Anthropic Claude" src="img/badge/anthropic-claude-badge.svg" /> <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat&logoColor=white" /></td></tr>
+        </table>
+        <br />
+        <h3>Documentation & References</h3>
+        <table>
+          <tr><th>Category</th><th>References, architecture, and principles</th></tr>
+          <tr><td><strong>Documentation & architecture</strong></td><td><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /> <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" /> <img alt="i18n" src="https://img.shields.io/badge/i18n-2563EB?style=flat&logo=googletranslate&logoColor=white" /></td></tr>
+          <tr><td><strong>Rendering strategies</strong></td><td><img alt="SSR" src="https://img.shields.io/badge/SSR-0F172A?style=flat&logoColor=white" /> <img alt="CSR" src="https://img.shields.io/badge/CSR-334155?style=flat&logoColor=white" /></td></tr>
+          <tr><td><strong>Engineering principles</strong></td><td><img alt="DRY" src="https://img.shields.io/badge/DRY-7C3AED?style=flat&logoColor=white" /> <img alt="KISS" src="https://img.shields.io/badge/KISS-0EA5E9?style=flat&logoColor=white" /> <img alt="SoC" src="https://img.shields.io/badge/SoC-14B8A6?style=flat&logoColor=white" /></td></tr>
+          <tr><td><strong>Standards & references</strong></td><td><img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" /> <img alt="W3C" src="https://img.shields.io/badge/W3C-005A9C?style=flat&logo=w3c&logoColor=white" /> <img alt="GDPR" src="https://img.shields.io/badge/GDPR-1D4ED8?style=flat&logoColor=white" /> <img alt="PCI-DSS" src="https://img.shields.io/badge/PCI--DSS-475569?style=flat&logoColor=white" /> <img alt="ISO" src="https://img.shields.io/badge/ISO-1F2937?style=flat&logoColor=white" /></td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
   ---
 
@@ -360,7 +367,7 @@ Mon parcours relie une base **scientifique et informatique (NSI, Maths, SES)**, 
 - **PDF et crypto documentaire**  
   PDF/A, Factur-X, VeraPDF, signatures électroniques, métadonnées, horodatage et traçabilité.
 - **IA appliquée au développement**  
-  GitHub Copilot (IDE + CLI), Claude / Claude Code, prompt engineering et workflows assistés.
+  GitHub Copilot (IDE + CLI), Anthropic Claude / Claude Code, prompt engineering et workflows assistés.
 - **IA locale et privacy-first**  
   Local AI avec une approche pragmatique des limites réelles : matériel, VRAM, contexte, polyvalence.
 - **Knowledge systems et doc engineering**  
@@ -397,51 +404,53 @@ Mon parcours relie une base **scientifique et informatique (NSI, Maths, SES)**, 
 
 ## 🧑‍💻 Mes projets
 
-### 1. 💻 **[Discrae.com](https://www.discrae.com) - Portfolio Personnel**
-<p align="left">
-  <img src="img/portfolio_thumbnail.png" alt="BANNIERE - Discrae.com" width="75%"/>
-</p>
-
-Portfolio personnel dédié à mes projets web et à mes productions musicales, avec un focus sur les performances et l'accessibilité.
-
-**Fonctionnalités principales** :
-- Présentation claire de mes projets web et musicaux
-- Design responsive avec animations soignées
-- Formulaire de contact sécurisé via Gmail API
-- Structuration propre entre front, back, contenus et déploiement
-
----
-
-### 2. 🎧 **[DISCRAEProd.com](https://www.discraeprod.com) - Catalogue d'instrumentale en ligne**
-<p align="left">
-  <img src="img/discraeprod_thumbnail.png" alt="BANNIERE - DISCRAE Prod.com" width="75%"/>
-</p>
-
-Plateforme dédiée à la production musicale pour découvrir, écouter et réserver des instrumentales originales.
-
-**Fonctionnalités principales** :
-
-- Écoute de démos
-- Réservation de licences de productions musicales
-- Téléchargement des fichiers
-- Inscription et connexion sécurisées
-- Intégration d'APIs métier : **Stripe**, **Gmail** et **Google Drive**
-- Logique fullstack orientée produit avec **MySQL cloud**, CI/CD, SEO et sécurité applicative
-
----
-
-### 3. 💼 **D-RECT Solutions - Solution métier / projet professionnel**
-<p align="left">
-  <img src="img/drect_thumbnail.png" alt="BANNIERE - D-RECT Stud.com" width="75%"/>
-</p>
-
-Projet orienté solution métier, pensé pour structurer, présenter et valoriser une activité professionnelle.
-
-**Fonctionnalités principales** :
-
-- Présentation claire des services et de l'identité du projet
-- Interface web moderne, responsive et accessible
-- Base évolutive pour intégration de contenus, contact et cas d'usage métier
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3>1. 💻 <a href="https://www.discrae.com">Discrae.com</a></h3>
+      <p align="left">
+        <img src="img/portfolio_thumbnail.png" alt="BANNIERE - Discrae.com" width="100%"/>
+      </p>
+      <p>Portfolio personnel dédié à mes projets web et à mes productions musicales, avec un focus sur les performances et l'accessibilité.</p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Présentation claire de mes projets web et musicaux</li>
+        <li>Design responsive avec animations soignées</li>
+        <li>Formulaire de contact sécurisé via Gmail API</li>
+        <li>Structuration propre entre front, back, contenus et déploiement</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>2. 🎧 <a href="https://www.discraeprod.com">DISCRAEProd.com</a></h3>
+      <p align="left">
+        <img src="img/discraeprod_thumbnail.png" alt="BANNIERE - DISCRAE Prod.com" width="100%"/>
+      </p>
+      <p>Plateforme dédiée à la production musicale pour découvrir, écouter et réserver des instrumentales originales.</p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Écoute de démos</li>
+        <li>Réservation de licences de productions musicales</li>
+        <li>Téléchargement des fichiers</li>
+        <li>Inscription et connexion sécurisées</li>
+        <li>Intégration d'APIs métier : <strong>Stripe</strong>, <strong>Gmail</strong> et <strong>Google Drive</strong></li>
+        <li>Logique fullstack orientée produit avec <strong>MySQL cloud</strong>, CI/CD, SEO et sécurité applicative</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>3. 💼 D-RECT Solutions - Solution métier / projet professionnel</h3>
+      <p align="left">
+        <img src="img/drect_thumbnail.png" alt="BANNIERE - D-RECT Stud.com" width="100%"/>
+      </p>
+      <p>Projet orienté solution métier, pensé pour structurer, présenter et valoriser une activité professionnelle.</p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Présentation claire des services et de l'identité du projet</li>
+        <li>Interface web moderne, responsive et accessible</li>
+        <li>Base évolutive pour intégration de contenus, contact et cas d'usage métier</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -484,40 +493,45 @@ Projet orienté solution métier, pensé pour structurer, présenter et valorise
 
 ## 🧠 Tech Stack
 
-### Socle Principal
-
-| Catégorie  | Technologies principales             |
-|------------|--------------------------------------|
-| **Langages de programmation** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) / ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) / ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Langages de balisage & style** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) / ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) / ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) |
-| **Frontend**   | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) / ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
-| **Backend**    | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) / ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| **Bases de données** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) / ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Outils**     | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) / ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Terminal & Env** | ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white) / ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) / ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) / ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
-| **Tests**      | ![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=white) / ![Supertest](https://img.shields.io/badge/Supertest-555555?style=flat&logo=supertest&logoColor=white) / ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white) |
-| **CI/CD / DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) / ![SSH](https://img.shields.io/badge/SSH-111111?style=flat&logo=gnubash&logoColor=white) |
-| **Déploiement / Production**| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) *(frontend)* / ![Render](https://img.shields.io/badge/Render-4B55D7?style=flat&logo=render&logoColor=white) *(backend)* / ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) / ![Aiven](https://img.shields.io/badge/Aiven-4D44A7?style=flat&logo=aiven&logoColor=white) |
-
----
-
-### Écosystème Complémentaire
-
-| Catégorie  | Outils, intégrations et références   |
-|------------|--------------------------------------|
-| **Libs & middleware** | ![Joi](https://img.shields.io/badge/Joi-5A67D8?style=flat&logoColor=white) / ![Multer](https://img.shields.io/badge/Multer-FFB020?style=flat&logoColor=black) / ![Simple Crypto](https://img.shields.io/badge/Simple--Crypto-6E56CF?style=flat&logoColor=white) / ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white) |
-| **Sécurité / Auth** | ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-2F2F2F?style=flat&logo=oauth&logoColor=white) / ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) / ![CORS](https://img.shields.io/badge/CORS-00599C?style=flat&logoColor=white) / ![Argon2](https://img.shields.io/badge/Argon2-1F6FEB?style=flat&logoColor=white) |
-| **APIs & intégrations** | ![Gmail API](https://img.shields.io/badge/Gmail%20API-EA4335?style=flat&logo=gmail&logoColor=white) / ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-0F9D58?style=flat&logo=googledrive&logoColor=white) / ![YouTube Data API](https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat&logo=youtube&logoColor=white) / ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) / ![Render API](https://img.shields.io/badge/Render%20API-4B55D7?style=flat&logo=render&logoColor=white) |
-| **IA / Automatisation** | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) / ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logoColor=white) / ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat&logoColor=white) |
-
----
-
-### Documentation & Référentiels
-
-| Catégorie  | Références, architecture et principes |
-|------------|--------------------------------------|
-| **Documentation & architecture** | Swagger / OpenAPI / i18n / SSR / CSR / DRY / KISS / SoC |
-| **Standards & référentiels** | OWASP / W3C / RGPD / PCI-DSS / ISO |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Socle Principal</h3>
+      <table>
+        <tr><th>Catégorie</th><th>Technologies principales</th></tr>
+        <tr><td><strong>Langages de programmation</strong></td><td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td></tr>
+        <tr><td><strong>Langages de balisage & style</strong></td><td><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /></td></tr>
+        <tr><td><strong>Frontend</strong></td><td><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /></td></tr>
+        <tr><td><strong>Backend</strong></td><td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /></td></tr>
+        <tr><td><strong>Bases de données</strong></td><td><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td></tr>
+        <tr><td><strong>Outils</strong></td><td><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></td></tr>
+        <tr><td><strong>Terminal & Env</strong></td><td><img alt="WSL" src="https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" /></td></tr>
+        <tr><td><strong>Tests</strong></td><td><img alt="Vitest" src="https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=white" /> <img alt="Supertest" src="https://img.shields.io/badge/Supertest-555555?style=flat&logo=supertest&logoColor=white" /> <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white" /></td></tr>
+        <tr><td><strong>CI/CD / DevOps</strong></td><td><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <img alt="SSH" src="https://img.shields.io/badge/SSH-111111?style=flat&logo=gnubash&logoColor=white" /></td></tr>
+        <tr><td><strong>Déploiement / Production</strong></td><td><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img alt="Render" src="https://img.shields.io/badge/Render-4B55D7?style=flat&logo=render&logoColor=white" /> <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white" /> <img alt="Aiven" src="img/badge/aiven-badge.svg" /></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Écosystème Complémentaire</h3>
+      <table>
+        <tr><th>Catégorie</th><th>Outils, intégrations et références</th></tr>
+        <tr><td><strong>Libs & middleware</strong></td><td><img alt="Joi" src="https://img.shields.io/badge/Joi-5A67D8?style=flat&logoColor=white" /> <img alt="Multer" src="https://img.shields.io/badge/Multer-FFB020?style=flat&logoColor=black" /> <img alt="Simple Crypto" src="https://img.shields.io/badge/Simple--Crypto-6E56CF?style=flat&logoColor=white" /> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" /></td></tr>
+        <tr><td><strong>Sécurité / Auth</strong></td><td><img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth%202.0-2F2F2F?style=flat&logo=oauth&logoColor=white" /> <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" /> <img alt="CORS" src="https://img.shields.io/badge/CORS-00599C?style=flat&logoColor=white" /> <img alt="Argon2" src="https://img.shields.io/badge/Argon2-1F6FEB?style=flat&logoColor=white" /></td></tr>
+        <tr><td><strong>APIs & intégrations</strong></td><td><img alt="Gmail API" src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat&logo=gmail&logoColor=white" /> <img alt="Google Drive API" src="https://img.shields.io/badge/Google%20Drive%20API-0F9D58?style=flat&logo=googledrive&logoColor=white" /> <img alt="YouTube Data API" src="https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=flat&logo=youtube&logoColor=white" /> <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" /> <img alt="Render API" src="https://img.shields.io/badge/Render%20API-4B55D7?style=flat&logo=render&logoColor=white" /></td></tr>
+        <tr><td><strong>IA / Automatisation</strong></td><td><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" /> <img alt="Anthropic Claude" src="img/badge/anthropic-claude-badge.svg" /> <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat&logoColor=white" /></td></tr>
+      </table>
+      <br />
+      <h3>Documentation & Référentiels</h3>
+      <table>
+        <tr><th>Catégorie</th><th>Références, architecture et principes</th></tr>
+        <tr><td><strong>Documentation & architecture</strong></td><td><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /> <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" /> <img alt="i18n" src="https://img.shields.io/badge/i18n-2563EB?style=flat&logo=googletranslate&logoColor=white" /></td></tr>
+        <tr><td><strong>Stratégies de rendu</strong></td><td><img alt="SSR" src="https://img.shields.io/badge/SSR-0F172A?style=flat&logoColor=white" /> <img alt="CSR" src="https://img.shields.io/badge/CSR-334155?style=flat&logoColor=white" /></td></tr>
+        <tr><td><strong>Principes d'ingénierie</strong></td><td><img alt="DRY" src="https://img.shields.io/badge/DRY-7C3AED?style=flat&logoColor=white" /> <img alt="KISS" src="https://img.shields.io/badge/KISS-0EA5E9?style=flat&logoColor=white" /> <img alt="SoC" src="https://img.shields.io/badge/SoC-14B8A6?style=flat&logoColor=white" /></td></tr>
+        <tr><td><strong>Standards & référentiels</strong></td><td><img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" /> <img alt="W3C" src="https://img.shields.io/badge/W3C-005A9C?style=flat&logo=w3c&logoColor=white" /> <img alt="RGPD" src="https://img.shields.io/badge/RGPD-1D4ED8?style=flat&logoColor=white" /> <img alt="PCI-DSS" src="https://img.shields.io/badge/PCI--DSS-475569?style=flat&logoColor=white" /> <img alt="ISO" src="https://img.shields.io/badge/ISO-1F2937?style=flat&logoColor=white" /></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 

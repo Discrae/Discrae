@@ -436,7 +436,7 @@ Mon parcours relie une base **scientifique et informatique (NSI, Maths, SES)**, 
       </ul>
     </td>
     <td width="33.33%" valign="top">
-      <h3>3. 💼 D-RECT Solutions - Solution métier / projet professionnel</h3>
+      <h3>3. 💼 D-RECT Solutions</h3>
       <p align="left">
         <img src="img/drect_thumbnail.png" alt="BANNIERE - D-RECT Stud.com" width="100%"/>
       </p>

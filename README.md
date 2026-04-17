@@ -428,9 +428,8 @@ Mon parcours relie une base **scientifique et informatique (NSI, Maths, SES)**, 
       <p>Plateforme dédiée à la production musicale pour découvrir, écouter et réserver des instrumentales originales.</p>
       <p><strong>Fonctionnalités principales :</strong></p>
       <ul>
-        <li>Écoute de démos</li>
+        <li>Écoute de démos & Téléchargement des fichiers</li>
         <li>Réservation de licences de productions musicales</li>
-        <li>Téléchargement des fichiers</li>
         <li>Inscription et connexion sécurisées</li>
         <li>Intégration d'APIs métier : <strong>Stripe</strong>, <strong>Gmail</strong> et <strong>Google Drive</strong></li>
         <li>Logique fullstack orientée produit avec <strong>MySQL cloud</strong>, CI/CD, SEO et sécurité applicative</li>
